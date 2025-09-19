@@ -5,31 +5,31 @@
             "id": 1,
             "judul": "Bahasa Indonesia Kelas X",
             "jm_halaman": 135,
-            "Pengarang": "Indra Sukmawa"
+            "pengarang": "Indra Sukmawa"
         },
       {
             "id": 2,
             "judul": "1001 Resep Masakan Nusantara",
             "jm_halaman": 93,
-            "Pengarang": "Rudy Choirudin"
+            "pengarang": "Rudy Choirudin"
         },
       {
             "id": 3,
             "judul": "Harry Potter And The Order of Phoenix",
             "jm_halaman": 332,
-            "Pengarang": "J.K Rowling"
+            "pengarang": "J.K Rowling"
         },
        {
             "id": 4,
             "judul": "Halo: The Flood",
             "jm_halaman": 352,
-            "Pengarang": "William C. Dietz"
+            "pengarang": "William C. Dietz"
         },
        {
             "id": 5,
             "judul": "Bumi",
             "jm_halaman": 528,
-            "Pengarang": "Tere Liye"
+            "pengarang": "Tere Liye"
         }
     ],
     "meta": {
