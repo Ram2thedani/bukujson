@@ -3,33 +3,38 @@
     "data": [
         {
             "id": 1,
-            "judul": "Bahasa Indonesia Kelas X",
+            "judul": "Bahasa Indonesia Kelas XI",
             "jm_halaman": 135,
             "pengarang": "Indra Sukmawa"
+            "gambar": "https://a.cdn-myedisi.com/book/cover/bse-a_59fc2c09116ad392659386.jpg"
         },
       {
             "id": 2,
-            "judul": "1001 Resep Masakan Nusantara",
+            "judul": "100 Resep Masakan Indonesia Populer Ala Yongki Gunawan",
             "jm_halaman": 93,
-            "pengarang": "Rudy Choirudin"
+            "pengarang": "Yongki Gunawan"
+            "gambar" : "https://bukukita.com/babacms/displaybuku/88687_f.jpg"
         },
       {
             "id": 3,
             "judul": "Harry Potter And The Order of Phoenix",
             "jm_halaman": 332,
             "pengarang": "J.K Rowling"
+            "gambar": "https://perpustakaan.jakarta.go.id/catalog-dispusip/uploaded_files/sampul_koleksi/original/Monograf/231172.jpg"
         },
        {
             "id": 4,
             "judul": "Halo: The Flood",
             "jm_halaman": 352,
             "pengarang": "William C. Dietz"
+            "gambar": "https://m.media-amazon.com/images/I/81spsH28FGL._SL1500_.jpg"
         },
        {
             "id": 5,
             "judul": "Bumi",
             "jm_halaman": 528,
             "pengarang": "Tere Liye"
+            "gambar": "https://bukukita.com/babacms/displaybuku/95219_f.jpg"
         }
     ],
     "meta": {
